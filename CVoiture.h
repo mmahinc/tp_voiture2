@@ -1,6 +1,6 @@
 /*******************************************************
-Nom           : Voiture.h
-Role          : Modification de la classe CVoiture
+Nom           : CVoiture.h
+Role          : Modification de la classe CVoiture (attributs)
 Auteur        : MAHINC Mathias
 Version       : V1.0 du 13/10/2026
 Licence       : GPL
