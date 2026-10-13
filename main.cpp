@@ -1,6 +1,6 @@
 /*******************************************************
 Nom           : main.cpp
-Role          : Manipulation dans le main
+Role          : Manipulation du main
 Auteur        : MAHINC Mathias
 Version       : V1.0 du 13/10/2026
 Licence       : GPL
@@ -34,7 +34,7 @@ int main()
 
     cout << endl;
 
-    cout << "Deplacement voitures" << endl;
+    cout << "Partie 2 : Deplacement voitures" << endl;
 
     voiture1.deplacer(3, 4);
     voiture1.deplacer(2, 0);
@@ -50,7 +50,7 @@ int main()
 
     cout << endl;
 
-    cout << "Test avec valeurs negatives" << endl;
+    cout << "Partie 3 : Test avec valeurs negatives" << endl;
 
     voiture1.deplacer(-2, -3);
 
